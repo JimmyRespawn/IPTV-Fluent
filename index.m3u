@@ -1,8 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="http://159.75.166.157/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育
-http://api3.52tb.xyz/info?id=375&token=20230304ivalrs
-#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="http://159.75.166.157/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育
-http://api3.52tb.xyz/info?id=399&token=20230304ivalrs
-#EXTINF:-1 tvg-name="上海五星体育（备1）" tvg-logo="http://159.75.166.157/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育（备1）
-http://api3.52tb.xyz/info?id=376&token=20230304ivalrs
+#EXTINF:0,ABC 15 Phoenix (KNXV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:0,Bloomberg TV+
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:0,CNN (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
