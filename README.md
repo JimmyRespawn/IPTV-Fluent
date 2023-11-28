@@ -5,8 +5,7 @@
 ## How to use?
 
 Simply type any m3u links you found online into [Search channels m3u/8 link] on the left and press _Enter_.
-
-![VLC Network Panel](//zzzzzz.png link)
+![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true)
 
 ## Where can I find m3u link?
 
