@@ -9,7 +9,8 @@ Simply type any m3u links you found online into [Search channels m3u/8 link] on 
 
 ## Where can I find m3u link?
 
-type iptv into github search or m3u links on any search engine.
+Type 'iptv' into github search section.
+Or type 'm3u links' on any search engine.
 
 ## Terms of Service
 IPTV Fluent does not host or distribute any content or re-direct you to any resellers. Please find the open .m3u8 or .m3u link provided by other legal IPTV providers.
