@@ -20,4 +20,9 @@ The app is no more than a passion project made for Windows 11 / Xbox.
 If you encounter any bugs in the app, feel free to contact me.
 
 ## Download Link
-IPTV Fluent:  https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare
+IPTV Fluent:  
+<p align="left">
+  <a href="https://apps.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare" target="_blank">
+    <img src="https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png" width="200" alt="Store link" />
+  </a>
+</p>
