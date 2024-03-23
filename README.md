@@ -22,7 +22,7 @@ If you encounter any bugs in the app, feel free to contact me.
 ## Download Link
 IPTV Fluent:  
 <p align="left">
-  <a href="https://apps.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare" target="_blank">
+  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare" target="_blank">
     <img src="https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png" width="200" alt="Store link" />
   </a>
 </p>
