@@ -27,13 +27,7 @@ https://live.m2.tv/hls3/stream.m3u8
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="now80s.uk" tvg-name="now80s.uk" tvg-logo="https://tv.minchev.eu/logos/now80.uk.png" group-title="Music",Now 80's [United Kindom]
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://tv.minchev.eu/logos/1mus.png" group-title="Music",1 Music Channel [Russia] 1080p
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://tv.minchev.eu/logos/1mus.ru.png" group-title="Music",1 Music Channel Russia [Russia] 1080p
-http://rtmp.one.by:2300
-#EXTINF:-1 tvg-id="rbc.ru" tvg-name="rbc.ru" tvg-logo="https://tv.minchev.eu/logos/rbc.ru.png" group-title="News",RBC [Russia] 576p
-http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1 tvg-id="abcnews.go.com" tvg-name="abcnews.go.com" tvg-logo="https://tv.minchev.eu/logos/abcnews.go.com.png",ABC News [United Stated] 720p
+#EXTINF:-1 tvg-id="abcnews.go.com" tvg-name="abcnews.go.com" tvg-logo="https://tv.minchev.eu/logos/abcnews.go.com.png" group-title="News",ABC News [United Stated] 720p
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="hd.traveltv.bg" tvg-name="hd.traveltv.bg" tvg-logo="https://tv.minchev.eu/logos/hd.traveltv.bg.png" group-title="News",This is Bulgaria [Bulgaria] 1080p
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8 
