@@ -1,0 +1,46 @@
+#EXTM3U recommended="https://github.com/iptv-org/iptv" url-tvg="https://tv.minchev.eu/demo.xml.gz"
+#EXTINF:-1 tvg-id="city.bg" tvg-name="city.bg" tvg-logo="https://tv.minchev.eu/logos/city.bg.png" group-title="Music",City Radio & TV [Bulgaria] 576p
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="thevoice.bg" tvg-name="thevoice.bg" tvg-logo="https://tv.minchev.eu/logos/thevoice.bg.png" group-title="Music",The Voice TV [Bulgaria] 720p
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg" tvg-logo="https://tv.minchev.eu/logos/magic.bg.png" group-title="Music",Magic TV [Bulgaria] 720p
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="codefashion.bg" tvg-name="codefashion.bg" tvg-logo="https://tv.minchev.eu/logos/codefashion.bg.png" group-title="News",Code Fashion [Bulgaria] 1080p
+https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="codehealth.bg" tvg-name="codehealth.bg" tvg-logo="https://tv.minchev.eu/logos/codehealth.bg.png" group-title="News",Code Health [Bulgaria] 1080p
+https://cdn3.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-id="magictv.gr" tvg-name="magictv.gr" tvg-logo="https://tv.minchev.eu/logos/magictv.gr.png" group-title="Music",Magic TV [Greece] 360p
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-id="vibee.tv" tvg-name="vibee.tv" tvg-logo="https://tv.minchev.eu/logos/vibee.tv.png" group-title="Music",V2Beat [United Kindom] 720p
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="citymusic.be" tvg-name="citymusic.be" tvg-logo="https://tv.minchev.eu/logos/citymusic.be.png" group-title="Music",City Music [Belgium] 720p
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-id="kronehit.at" tvg-name="kronehit.at" tvg-logo="https://tv.minchev.eu/logos/kronehit.at.png" group-title="Music",Kronehit [Germany] 1080p
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="retromusic.cz" tvg-name="retromusic.cz" tvg-logo="https://tv.minchev.eu/logos/retromusic.cz.png" group-title="Music",Retro [Czech Republic] 360p
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="4fun.tv" tvg-name="4fun.tv" tvg-logo="https://tv.minchev.eu/logos/4fun.tv.png" tvg-id="4FunTV.pl" group-title="Music",4fun.tv [Poland]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="m2.ua" tvg-name="m2.ua" tvg-logo="https://tv.minchev.eu/logos/m2.ua.png" group-title="Music",M2 [Ukraine] 540p
+https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="now70s.uk" tvg-name="now70s.uk" tvg-logo="https://tv.minchev.eu/logos/now70.uk.png" group-title="Music",Now 70's [United Kindom]
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="now80s.uk" tvg-logo="https://tv.minchev.eu/logos/now80.uk.png" group-title="Music",Now 80's [United Kindom]
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://tv.minchev.eu/logos/1mus.png" group-title="Music",1 Music Channel [Russia] 1080p
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://tv.minchev.eu/logos/1mus.ru.png" group-title="Music",1 Music Channel Russia [Russia] 1080p
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="rbc.ru" tvg-name="rbc.ru" tvg-logo="https://tv.minchev.eu/logos/rbc.ru.png" group-title="News",RBC [Russia] 576p
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="abcnews.go.com" tvg-name="abcnews.go.com" tvg-logo="https://tv.minchev.eu/logos/abcnews.go.com.png",ABC News [United Stated] 720p
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="hd.traveltv.bg" tvg-name="hd.traveltv.bg" tvg-logo="https://tv.minchev.eu/logos/hd.traveltv.bg.png" group-title="News",This is Bulgaria [Bulgaria] 1080p
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8 
+#EXTINF:-1 tvg-id="tv.traveltv.bg" tvg-name="tv.traveltv.bg" tvg-logo="https://tv.minchev.eu/logos/tv.traveltv.bg.png" group-title="News",Travel TV [Bulgaria] 576p
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="tv1.bg" tvg-name="tv1.bg" tvg-logo="https://tv.minchev.eu/logos/tv1.bg.png" group-title="News",TV1 [Bulgaria] 404p
+https://tv1.cloudcdn.bg:8081/stream.m3u8
+#EXTINF:-1 tvg-id="eurocom.bg" tvg-name="eurocom.bg" tvg-logo="https://tv.minchev.eu/logos/eurocom.bg.png" group-title="News",Eurocom [Bulgaria] 360p
+https://live.ecomservice.bg/hls/stream.m3u8
+#EPG recommendation https://epg.112114.eu.org/
