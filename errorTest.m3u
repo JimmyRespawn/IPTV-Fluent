@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="TDT" tvg-id="LA 1" tvg-logo="http://tv.iptvlogos.es/logos/square/la1.png",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="LA 2" tvg-logo="http://tv.iptvlogos.es/logos/square/la2.png",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
