@@ -2,7 +2,12 @@
 
 Release date: TBD
 - Feature: Stand alone EPG page
-- Feature: Cache online list (refresh everytime or everyday)
+- Feature: New video info in blade bar
+- Feature: Change stream video track
+- Feature: Change stream audio track
+- Feature: Change stream subtitle
+- Feature: Enable hardware decoding
+- Bug fixes: EPG list for different time zones
 
 ## v1.0.14
 
