@@ -8,6 +8,7 @@ Release date: TBD
 - Feature: Change stream subtitle
 - Feature: Enable hardware decoding
 - Bug fixes: EPG list for different time zones
+- Bug fixes: Video restart after pausing and replaying the VOD
 
 ## v1.0.14
 
