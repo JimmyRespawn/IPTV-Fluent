@@ -1,3 +1,11 @@
+## v1.0.16
+
+Release date: TBD
+- Feature: Support TV remote (Limited brand only)
+- Bug fixes: Blade bar ui fix
+- Bug fixes: Fix some circumstances which stuck in fullscreen
+- Bug fixes: Fix some circumstances which unable to enter compact mode under some channels
+
 ## v1.0.15
 
 Release date: 7/22
