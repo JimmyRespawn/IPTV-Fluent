@@ -1,12 +1,12 @@
 ## v1.0.15
 
-Release date: TBD
+Release date: 7/22
 - Feature: Stand alone EPG page
 - Feature: New video info in blade bar
 - Feature: Change stream video track
 - Feature: Change stream audio track
 - Feature: Change stream subtitle
-- Feature: Enable hardware decoding
+- Feature: Option to enable hardware decoding
 - Bug fixes: EPG list for different time zones
 - Bug fixes: Video restart after pausing and replaying the VOD
 
@@ -22,4 +22,7 @@ Release date: 7/17
 - Feature: Rename saved online list in library page
 - Feature: Reorder saved online list in library page
 - Feature: UI tweaks in Settings page
-- Bug fixes: Switch to online list when refreshes in channels page 
+- Bug fixes: Switch to online list when refreshes in channels page
+
+## v1.0.11
+- Bug fixes: App crashes after switching the channel
