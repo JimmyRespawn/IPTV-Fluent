@@ -1,7 +1,9 @@
 ## v1.0.16
 
 Release date: TBD
-- Feature: Support TV remote (Limited brand only)
+- Feature: Add extream codes parser
+- Feature: Add txt file parse
+- Feature: Change default list/grid
 - Bug fixes: Blade bar ui fix
 - Bug fixes: Fix some circumstances which stuck in fullscreen
 - Bug fixes: Fix some circumstances which unable to enter compact mode under some channels
