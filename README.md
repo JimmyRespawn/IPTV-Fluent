@@ -14,10 +14,10 @@ Type 'iptv' into github search section.
 Or type 'm3u links' on any search engine.
 
 ## Terms of Service
-IPTV Fluent does not host or distribute any content or re-direct you to any resellers. Please find m3u8 or m3u link provided by other legal IPTV providers.
-The app is no more than a passion project made for Windows 11 / Xbox.
+IPTV Fluent does not host or distribute any content or re-direct you to any reseller. Please find m3u8 or m3u link provided by other legal IPTV providers.
+The app is no more than a passion project made for Windows.
 
-If you encounter any bugs in the app, feel free to contact me.
+If you encounter any bug in the app, feel free to contact me.
 
 ## Download Link
 IPTV Fluent:  
