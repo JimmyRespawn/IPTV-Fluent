@@ -1,6 +1,18 @@
+## v1.0.18
+Release date: TBD
+- Feature: Cache online list
+
+## v1.0.17
+
+Release date: 2024/7/29
+- Feature: Add FFmpeg as video engine
+- Feature: Background audio play using native engine on Xbox
+- Bug fixes: Fix some video playback issue using native engine
+- Bug fixes: UI fixes under small window
+
 ## v1.0.16
 
-Release date: TBD
+Release date: 2024/7/26
 - Feature: Add extream codes parser
 - Feature: Add txt file parse
 - Feature: Change default list/grid
