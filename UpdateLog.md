@@ -1,4 +1,4 @@
-## v1.0.18
+## v1.0.19
 Release date: 2024/8/2
 - Bug fixes: Fix unable to switch channel under VLC player engine
 
