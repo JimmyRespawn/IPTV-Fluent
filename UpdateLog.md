@@ -1,6 +1,11 @@
 ## v1.0.18
-Release date: TBD
+Release date: 2024/8/2
+- Bug fixes: Fix unable to switch channel under VLC player engine
+
+## v1.0.18
+Release date: 2024/8/2
 - Feature: Cache online list
+- Feature: New language support
 
 ## v1.0.17
 
