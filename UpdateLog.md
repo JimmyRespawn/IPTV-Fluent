@@ -1,7 +1,7 @@
 ## v1.0.20
 Release date: TBD
+- Feature: Remote support(Kiosk mode)
 - Feature: More language support
-- etc
 
 ## v1.0.19
 Release date: 2024/8/2
