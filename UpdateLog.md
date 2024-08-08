@@ -1,6 +1,9 @@
-## v1.0.20
+## v1.0.21
 Release date: TBD
 - Feature: Remote support(Kiosk mode)
+
+## v1.0.20
+Release date: TBD
 - Feature: More language support
 
 ## v1.0.19
