@@ -2,6 +2,7 @@
 - 🚀 [Where can I find m3u link?](#where-can-i-find-m3u-link)
 - 🚀 [Terms of Service](#terms-of-services)
 - 🚀 [Download link](#download-link)
+- - 🚀 [Documentation](#ducomentation)
 
 ## How to use?
 
@@ -26,3 +27,6 @@ IPTV Fluent:
     <img src="https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png" width="200" alt="Store link" />
   </a>
 </p>
+
+## Documentation
+[We offer a complete user guide in our website. Click to navigate.](https://app.linjimi.com/docs/iptv/)
