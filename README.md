@@ -2,7 +2,7 @@
 - 🚀 [Where can I find m3u link?](#where-can-i-find-m3u-link)
 - 🚀 [Terms of Service](#terms-of-services)
 - 🚀 [Download link](#download-link)
-- - 🚀 [Documentation](#ducomentation)
+- 🚀 [Documentation](#ducomentation)
 
 ## How to use?
 
