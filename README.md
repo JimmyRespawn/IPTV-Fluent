@@ -1,6 +1,6 @@
 - 🚀 [How to use?](#how-to-use)
 - 🚀 [Where can I find m3u link?](#where-can-i-find-m3u-link)
-- 🚀 [Terms of Service](#terms-of-services)
+- 🚀 [Terms of Service](#terms-of-service)
 - 🚀 [Download link](#download-link)
 - 🚀 [Documentation](#documentation)
 
