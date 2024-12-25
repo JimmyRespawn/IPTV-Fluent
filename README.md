@@ -30,3 +30,6 @@ IPTV Fluent:
 
 ## Documentation
 [We offer a complete user guide in our website. Click to navigate.](https://app.linjimi.com/docs/iptv/)
+
+## Documentation
+[Help us in translating IPTV Fluent in this website.](https://crowdin.com/project/iptvfluent/))
