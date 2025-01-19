@@ -28,6 +28,10 @@ IPTV Fluent:
   </a>
 </p>
 
+Winget:
+
+`Winget install 9pkmdlwbc8zj`
+
 ## Documentation
 [We offer a complete user guide in our website. Click to navigate.](https://app.linjimi.com/docs/iptv/)
 
