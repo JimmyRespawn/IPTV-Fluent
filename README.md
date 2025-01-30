@@ -23,7 +23,7 @@ If you encounter any bug in the app, feel free to contact me.
 ## Download Link
 IPTV Fluent:  
 <p align="left">
-  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare" target="_blank">
+  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=github" target="_blank">
     <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/storeBadge.png?raw=true" width="200" alt="Store link" />
   </a>
 </p>
