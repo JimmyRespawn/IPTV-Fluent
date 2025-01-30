@@ -24,7 +24,7 @@ If you encounter any bug in the app, feel free to contact me.
 IPTV Fluent:  
 <p align="left">
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?ocid=pdpshare" target="_blank">
-    <img src="https://github.com/jenius-apps/ambie/raw/main/images/storeBadge.png" width="200" alt="Store link" />
+    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/storeBadge.png?raw=true" width="200" alt="Store link" />
   </a>
 </p>
 
