@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
-    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/storeBadge.png?raw=true" width="200" alt="Store link" />
+    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/storeBadge.png?raw=true" width="200" alt="Store link" />
   </a>
   <br>
 </p>
@@ -31,7 +31,7 @@ Winget install 9pkmdlwbc8zj
 
 Simply type any m3u links you found online into [Search channels m3u/8 link] on the left and press _Enter_.
 
-![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true)
+![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.png?raw=true)
 
 ## Where can I find m3u link?
 
