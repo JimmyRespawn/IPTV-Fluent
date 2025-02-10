@@ -5,7 +5,7 @@
   IPTV Fluent Player
 </h1>
 <p align="center">
-  IPTV Fluent is a modern media player for Windows and Xbox that allows users to play thier content like Live TV, VOD, Series. 
+  IPTV Fluent is a modern media player for Windows and Xbox that allows users to play thier content like Live TV, VOD.
 </p>
 <p align="center">
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
@@ -14,7 +14,7 @@
   <br>
 </p>
 
-Winget:
+## Winget
 
 ```
 Winget install 9pkmdlwbc8zj
@@ -22,10 +22,7 @@ Winget install 9pkmdlwbc8zj
 
 ## Catalog
 
-- 🚀 [How to use?](#how-to-use)
-- 🚀 [Where can I find m3u link?](#where-can-i-find-m3u-link)
-- 🚀 [Terms of Service](#terms-of-service)
-- 🚀 [Documentation](#documentation)
+[🚀 How to use?](#how-to-use) | [Where can I find m3u link?](#where-can-i-find-m3u-link) | [User guide](https://app.linjimi.com/docs/iptv/) | [Update log](https://app.linjimi.com/docs/iptv/updatelog/) | [Translation Help](https://crowdin.com/project/iptvfluent) | [Terms of Service](#terms-of-service)
 
 ## How to use?
 
@@ -45,15 +42,3 @@ IPTV Fluent does not host or distribute any content or re-direct you to any rese
 The app is no more than a passion project made for Windows.
 
 If you encounter any bug in the app, feel free to contact me.
-
-## Documentation
-
-[We offer a complete user guide in our website. Click to navigate.](https://app.linjimi.com/docs/iptv/)
-
-## Translation
-
-[Help us in translating IPTV Fluent in this website.](https://crowdin.com/project/iptvfluent)
-
-## Update log
-
-[Find latest feature change here.](https://app.linjimi.com/docs/iptv/updatelog/)
