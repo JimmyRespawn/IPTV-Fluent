@@ -16,7 +16,9 @@
 
 Winget:
 
-`Winget install 9pkmdlwbc8zj`
+```
+Winget install 9pkmdlwbc8zj
+```
 
 ## Catalog
 
@@ -28,11 +30,13 @@ Winget:
 ## How to use?
 
 Simply type any m3u links you found online into [Search channels m3u/8 link] on the left and press _Enter_.
+
 ![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/SearchSectionIPTVFluent.png?raw=true)
 
 ## Where can I find m3u link?
 
 Type 'iptv' into github search section.
+
 Or type 'm3u links' on any search engine.
 
 ## Terms of Service
@@ -49,3 +53,7 @@ If you encounter any bug in the app, feel free to contact me.
 ## Translation
 
 [Help us in translating IPTV Fluent in this website.](https://crowdin.com/project/iptvfluent)
+
+## Update log
+
+[Find latest feature change here.](https://app.linjimi.com/docs/iptv/updatelog/)
