@@ -1,11 +1,13 @@
 <p align="center">
-  <img width="128" align="center" src="https://store-images.s-microsoft.com/image/apps.22014.14260035015770905.070bbabf-ec58-40a9-8f62-88136f82d616.44985d5e-f1a7-4a7d-a47e-00ec2312cea4?h=576">
+  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
+    <img width="128" align="center" src="https://store-images.s-microsoft.com/image/apps.22014.14260035015770905.070bbabf-ec58-40a9-8f62-88136f82d616.44985d5e-f1a7-4a7d-a47e-00ec2312cea4?h=576">
+  </a>
 </p>
 <h1 align="center">
   IPTV Fluent Player
 </h1>
 <p align="center">
-  IPTV Fluent is a modern media player for Windows and Xbox that allows users to play thier content like Live TV, VOD.
+  IPTV Fluent is a modern media player for Windows and Xbox that allows users to play their content like Live TV, VOD.
 </p>
 <p align="center">
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
@@ -22,7 +24,7 @@ Winget install 9pkmdlwbc8zj
 
 ## Catalog
 
-[🚀 How to use?](#how-to-use) | [Where can I find m3u link?](#where-can-i-find-m3u-link) | [User guide](https://app.linjimi.com/docs/iptv/) | [Update log](https://app.linjimi.com/docs/iptv/updatelog/) | [Translation Help](https://crowdin.com/project/iptvfluent) | [Terms of Service](#terms-of-service)
+[🚀 How to use?](#how-to-use) | [Where can I find m3u link?](#where-can-i-find-m3u-link) | [User guide](https://app.linjimi.com/docs/iptv/?cid=github) | [Update log](https://app.linjimi.com/docs/iptv/updatelog/?cid=github) | [Translation Help](https://crowdin.com/project/iptvfluent) | [Terms of Service](#terms-of-service)
 
 ## How to use?
 
