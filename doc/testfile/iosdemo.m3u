@@ -1,6 +1,6 @@
 #EXTM3U recommended="https://github.com/iptv-org/iptv" url-tvg="https://tv.minchev.eu/demo.xml.gz"
 #EXTINF:-1 tvg-id="city.bg" tvg-name="city.bg" group-title="VOD",Sintel 720P
-https://download.blender.org/durian/movies/Sintel.2010.720p.mkv
+https://gofile-3738304b63.cn6.quickconnect.cn/fsdownload/dYjuK97LW/Sintel.2010.720p.mkv
 #EXTINF:-1 tvg-id="thevoice.bg" tvg-name="thevoice.bg" group-title="VOD",Tears of Steel 720p
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/tears_of_steel_720p.mov
 #EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg" group-title="VOD",Elephant dreams with multiple tracks
