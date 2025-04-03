@@ -7,5 +7,7 @@ https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/tears_of_steel_720p.mo
 https://cdn.theoplayer.com/video/elephants-dream/448/media_w370587926_b688000_vo_slen_t64TWFpbg==_5.ts
 #EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg" group-title="VOD",Orange
 http://download.blender.org/ED/ed3d_sidebyside-RL-2x1920x1038_24fps.mkv
+#EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg",Orange2
+http://download.blender.org/ED/ed3d_sidebyside-RL-2x1920x1038_24fps.mkv
 #EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg",SPR
 smb://D220J._smb._tcp.local/video/1. Movie/Saving.Private.Ryan.1998.V2.REPACK.Bluray.2160p.TrueHD7.1.Do/Saving.Private.Ryan.1998.V2.REPACK.Bluray.2160p.TrueHD7.1.Do.mkv
