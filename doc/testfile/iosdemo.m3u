@@ -1,13 +1,11 @@
-#EXTM3U recommended="https://github.com/iptv-org/iptv" url-tvg="https://tv.minchev.eu/demo.xml.gz"
-#EXTINF:-1 tvg-id="city.bg" tvg-name="city.bg" group-title="VOD",Sintel 720P
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+#EXTINF:-1 tvg-id="sintel.vod" tvg-name="city.bg" group-title="VOD",Sintel 720P
 https://cdn.theoplayer.com/video/elephants-dream/playlist.m3u8
-#EXTINF:-1 tvg-id="thevoice.bg" tvg-name="thevoice.bg" group-title="VOD",Tears of Steel 720p
+#EXTINF:-1 tvg-id="tos.vod" tvg-name="thevoice.bg" group-title="VOD",Tears of Steel 720p
 https://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/tears_of_steel_720p.mov
-#EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg" group-title="VOD",Elephant dreams with multiple tracks
+#EXTINF:-1 tvg-id="elephant.vod" tvg-name="magic.bg" group-title="VOD",Elephant dreams with multiple tracks
 https://cdn.theoplayer.com/video/elephants-dream/448/media_w370587926_b688000_vo_slen_t64TWFpbg==_5.ts
-#EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg" group-title="VOD",Orange
+#EXTINF:-1 tvg-id="orange.vod" tvg-name="magic.bg" group-title="VOD",Orange
 http://download.blender.org/ED/ed3d_sidebyside-RL-2x1920x1038_24fps.mkv
-#EXTINF:-1 tvg-id="magic.bg" tvg-name="magic.bg",Orange2
-http://download.blender.org/ED/ed3d_sidebyside-RL-2x1920x1038_24fps.mkv
-#EXTINF:-1 tvg-id="C-SPAN.2.us" tvg-name="magic.bg",TESTEPGCSP2
-https://v1.thetvapp.to/hls/CSPAN2/index.m3u8
+#EXTINF:-1 tvg-name="bbb.vod" group-title="VOD",Big Buck Bunny 720p
+https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
