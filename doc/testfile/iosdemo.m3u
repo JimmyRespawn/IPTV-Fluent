@@ -3,7 +3,7 @@
 https://cdn.theoplayer.com/video/elephants-dream/playlist.m3u8
 #EXTINF:-1 tvg-id="tos.vod" group-title="VOD",Tears of Steel 720p
 http://download.blender.org/demo/movies/Sintel.2010.720p.mkv
-#EXTINF:-1 tvg-id="elephant.vod" group-title="VOD",
+#EXTINF:-1 tvg-id="elephant.vod" group-title="VOD",Elephant dream
 https://cdn.theoplayer.com/video/elephants-dream/448/media_w370587926_b688000_vo_slen_t64TWFpbg==_5.ts
 #EXTINF:-1 tvg-name="bbb.vod" group-title="Cartoon",Big Buck Bunny 720p
 https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
