@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="bbb.vod" tvg-logo="https://od.lk/s/220236773_BammF/bigbuckbunny.jpg" group-title="Cartoon",Big Buck Bunny 720p
+https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
 #EXTINF:-1 tvg-id="sintel.vod" tvg-logo="https://od.lk/s/220236774_LpCvZ/sintel.jpg" group-title="Cartoon",Sintel 720P
 http://ftp.nluug.nl/pub/graphics/blender/demo/movies/Sintel.2010.720p.mkv
 #EXTINF:-1 tvg-id="tos.vod" tvg-logo="https://od.lk/s/220236775_Wenen/steelofteels.jpg" group-title="VOD",Tears of Steel 720p
 http://ftp.nluug.nl/pub/graphics/blender/demo/movies/ToS/tears_of_steel_720p.mov
 #EXTINF:-1 tvg-id="elephant.vod" tvg-logo="https://od.lk/s/220236776_f65qt/elephantdreams.jpg" group-title="VOD",Elephant dream
 https://cdn.theoplayer.com/video/elephants-dream/playlist.m3u8
-#EXTINF:-1 tvg-name="bbb.vod" tvg-logo="https://od.lk/s/220236773_BammF/bigbuckbunny.jpg" group-title="Cartoon",Big Buck Bunny 720p
-https://download.blender.org/peach/bigbuckbunny_movies/big_buck_bunny_720p_h264.mov
