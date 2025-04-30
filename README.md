@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank" style="margin-right: 20px;">
-    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/appStoreBadge.png?raw=true" width="180" alt="App Store link" />
+    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/297695737dd1085997fc8e3f65560cb147e1d416/doc/images/appStoreBadge.png?raw=true" width="180" alt="App Store link" />
   </a>
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
     <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/storeBadge.png?raw=true" width="180" alt="Microsoft Store link" />
