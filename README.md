@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
+  <a href="https://apps.apple.com/app/iptv-fluent-player/id6744343679?ct=github" target="_blank">
     <img width="128" align="center" src="https://store-images.s-microsoft.com/image/apps.22014.14260035015770905.070bbabf-ec58-40a9-8f62-88136f82d616.44985d5e-f1a7-4a7d-a47e-00ec2312cea4?h=576">
   </a>
 </p>
@@ -10,7 +10,7 @@
   IPTV Fluent is a modern media player for Windows, Xbox, iOS and iPadOS that allows users to play their content like Live TV, VOD.
 </p>
 <div align="center">
-  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank" style="margin-right: 20px;">
+  <a href="https://apps.apple.com/app/iptv-fluent-player/id6744343679?ct=github" target="_blank" style="margin-right: 20px;">
     <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/297695737dd1085997fc8e3f65560cb147e1d416/doc/images/appStoreBadge.png?raw=true" width="180" alt="App Store link" />
   </a>
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
