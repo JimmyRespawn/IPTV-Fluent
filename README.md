@@ -7,14 +7,17 @@
   IPTV Fluent Player
 </h1>
 <p align="center">
-  IPTV Fluent is a modern media player for Windows and Xbox that allows users to play their content like Live TV, VOD.
+  IPTV Fluent is a modern media player for Windows, Xbox, iOS and iPadOS that allows users to play their content like Live TV, VOD.
 </p>
-<p align="center">
-  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
-    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/storeBadge.png?raw=true" width="200" alt="Store link" />
+<div align="center">
+  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank" style="margin-right: 20px;">
+    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/appStoreBadge.png?raw=true" width="180" alt="App Store link" />
   </a>
-  <br>
-</p>
+  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
+    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/storeBadge.png?raw=true" width="180" alt="Microsoft Store link" />
+  </a>
+</div>
+
 
 ## Winget
 
@@ -24,13 +27,13 @@ Winget install 9pkmdlwbc8zj
 
 ## Catalog
 
-[🚀 How to use?](#how-to-use) | [Where can I find m3u link?](#where-can-i-find-m3u-link) | [User guide](https://app.linjimi.com/docs/iptv/?cid=github) | [Update log](https://app.linjimi.com/docs/iptv/updatelog/?cid=github) | [Translation Help](https://crowdin.com/project/iptvfluent) | [Terms of Service](#terms-of-service)
+[🚀 How to use?](#how-to-use) | [Where can I find m3u link?](#where-can-i-find-m3u-link) | [Win/Xbox User guide](https://app.linjimi.com/docs/iptv/?cid=github) | [Update log](https://app.linjimi.com/docs/iptv/updatelog/?cid=github) | [Translation Help](https://crowdin.com/project/iptvfluent) | [Terms of Service](#terms-of-service) | [iOS User guide](https://app.linjimi.com/docs/iptvios/?cid=github)
 
 ## How to use?
 
 Simply type any m3u links you found online into [Search channels m3u/8 link] on the left and press _Enter_.
 
-![VLC Network Panel](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.png?raw=true)
+![IPTVHowtoImage](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.png?raw=true)
 
 ## Where can I find m3u link?
 
