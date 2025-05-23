@@ -9,12 +9,12 @@
 <p align="center">
   IPTV Fluent is a modern media player for Windows, Xbox, iOS and iPadOS that allows users to play their content like Live TV, VOD.
 </p>
-<div align="center">
-  <a href="https://apps.apple.com/app/iptv-fluent-player/id6744343679?pt=127753526&mt=8&ct=github" target="_blank" style="margin-right: 20px;">
-    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/297695737dd1085997fc8e3f65560cb147e1d416/doc/images/appStoreBadge.png?raw=true" width="180" alt="App Store link" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://apps.apple.com/app/iptv-fluent-player/id6744343679?pt=127753526&mt=8&ct=github" target="_blank">
+    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/297695737dd1085997fc8e3f65560cb147e1d416/doc/images/appStoreBadge.png?raw=true"  height="75" alt="App Store link" />
   </a>
   <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
-    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/storeBadge.png?raw=true" width="180" alt="Microsoft Store link" />
+    <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/storeBadge.png?raw=true" height="75" alt="Microsoft Store link" />
   </a>
 </div>
 
@@ -39,11 +39,20 @@ Simply type any m3u links you found online into [Search channels m3u/8 link] on 
 
 Type 'iptv' into github search section.
 
-Or type 'm3u links' on any search engine.
+Type 'm3u links' on any search engine.
+
+Find legal IPTV providers which may provide you with the link, username and password.
+
+## Support type
+
+App supports online lists including M3U, Xtream Codes and Stralker Portal which you can add in library's `create online list`.
+
+Supporing local lists including m3u and txt file.
+
+Supporting m3u pasted string.
 
 ## Terms of Service
 
 IPTV Fluent does not host or distribute any content or re-direct you to any reseller. Please find m3u8 or m3u link provided by other legal IPTV providers.
-The app is no more than a passion project made for Windows.
 
 If you encounter any bug in the app, feel free to contact me.
