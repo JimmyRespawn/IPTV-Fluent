@@ -51,6 +51,18 @@ Supporing local lists including m3u and txt file.
 
 Supporting m3u pasted string.
 
+## Media Hub
+
+Starting at v1.0.34 for Windows & Xbox version. The app supports Emby, Jellyfin, WebDAV and DLNA as media servers.
+
+Access it by clicking the top right botton in the `Library` Page.
+
+The media info is accessible for Emby and Jellyfin servers. Currently there is no poster wall for medias yet. We'll see how it performs as media player now.
+
+The project is aiming to be a multi-media hub as Infuse and Kodi did in iOS and Android.
+
+On console you may experience glitch in few 4K videos due to codec issue. The only fix is using DLNA for these videos as replacement.
+
 ## Terms of Service
 
 IPTV Fluent does not host or distribute any content or re-direct you to any reseller. Please find m3u8 or m3u link provided by other legal IPTV providers.
