@@ -1,0 +1,4 @@
+[submodule "translation/IPTVFluent.i18n"]
+	path = translation/IPTVFluent.i18n
+	url = https://github.com/JimmyRespawn/IPTVFluent.i18n.git
+	branch = l10n_main
