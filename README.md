@@ -33,7 +33,7 @@ Winget install 9pkmdlwbc8zj
 
 Simply type any m3u links you found online into [Search channels m3u/8 link] on the left and press _Enter_.
 
-![IPTVHowtoImage](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.png?raw=true)
+![IPTVHowtoImage](https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/SearchSectionIPTVFluent.webp?raw=true)
 
 ## Where can I find m3u link?
 
