@@ -57,7 +57,7 @@ Starting at v1.0.34 for Windows & Xbox version. The app supports Emby, Jellyfin,
 
 Access it by clicking the top right botton in the `Library` Page.
 
-The media info is accessible for Emby and Jellyfin servers. Currently there is no modification for poster wall yet. We'll see how it performs as media player now.
+The media info is accessible for Emby and Jellyfin servers.
 
 The project is aiming to be a multi-media hub as Infuse and Kodi did in iOS and Android.
 
