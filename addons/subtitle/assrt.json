@@ -1,0 +1,23 @@
+{
+  "name": "assrt",
+  "isAPIRequired": true,
+  "apiKey": "",
+  "searchUrl": "https://api.assrt.net/v1/sub/search?token=apikey&q=videoname&pos=0&no_muxer=1&is_file=1&cnt=searchcount",
+  "checkPath": "sub.subs",
+  "returnPath": "sub",
+  "subtitleListMapping": {
+    "listPath": "subs",
+    "nameField": "native_name",
+    "idField": "id",
+    "langField": "desc",
+    "videoNameField": "videoname",
+    "scoreField": "vote_score",
+    "subtypeField": "subtype"
+  },
+  "isSubtitleGetRequired": true,
+  "subtitleDetailUrl": "https://api.assrt.net/v1/sub/detail?token=apikey&id=subtitleid",
+  "urlDetailPaths": [
+    "sub.subs[0].filelist[0].url",
+    "sub.subs[0].url"
+  ]
+}
