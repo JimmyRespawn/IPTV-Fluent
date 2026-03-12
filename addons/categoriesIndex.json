@@ -1,0 +1,10 @@
+{
+  "version": "0.8",
+  "uwpminimumappversion": 10048,
+  "categories": [
+    {
+      "name": "subtitle",
+      "index": "https://raw.githubusercontent.com/JimmyRespawn/IPTV-Fluent/refs/heads/main/addons/subtitle/index.json"
+    }
+  ]
+}
