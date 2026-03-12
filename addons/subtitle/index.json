@@ -1,0 +1,18 @@
+{
+  "addons": [
+    {
+      "name": "SubSource",
+      "version": "0.8",
+      "author": "official",
+      "lang": "English",
+      "configUrl": "https://raw.githubusercontent.com/JimmyRespawn/IPTV-Fluent/refs/heads/main/addons/subtitle/subsource.json"
+    },
+    {
+      "name": "Assrt",
+      "version": "0.8",
+      "author": "official",
+      "lang": "Simplified Chinese",
+      "configUrl": "https://raw.githubusercontent.com/JimmyRespawn/IPTV-Fluent/refs/heads/main/addons/subtitle/assrt.json"
+    }
+  ]
+}
