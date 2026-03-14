@@ -9,7 +9,7 @@
     "listPath": "subs",
     "nameField": "native_name",
     "idField": "id",
-    "langField": "desc",
+    "langField": "lang.desc",
     "videoNameField": "videoname",
     "scoreField": "vote_score",
     "subtypeField": "subtype"

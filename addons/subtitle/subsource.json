@@ -11,7 +11,7 @@
     "videoNameField": "title",
     "nativeNameField": "alternateTitle",
     "idField": "movieId",
-    "langField": null,
+    "langField": "type",
     "scoreField": "subtitleCount",
     "subtypeField": "type"
   },
