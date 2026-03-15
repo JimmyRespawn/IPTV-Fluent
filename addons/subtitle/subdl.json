@@ -8,14 +8,14 @@
   "subtitleListMapping": {
     "listPath": "subtitles",
     "nameField": "release_name",
-    "videoNameField": "title",
+    "videoNameField": "name",
     "nativeNameField": null,
     "idField": "url",
     "langField": "language",
     "scoreField": null,
-    "subtypeField": "type"
+    "subtypeField": null
   },
-  "subtitleDetailUrl": "subtitleid",
+  "subtitleDetailUrl": "https://dl.subdl.comsubtitleid",
   "urlDetailPaths": [],
   "isMovieGetBeforeSubtitle": false,
   "customMovieSearchUrl": "",
