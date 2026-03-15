@@ -1,5 +1,5 @@
 {
-  "name": "assrt",
+  "name": "Assrt",
   "isAPIRequired": true,
   "apiKey": "",
   "searchUrl": "https://api.assrt.net/v1/sub/search?token=apikey&q=videoname&pos=0&no_muxer=1&is_file=1&cnt=searchcount",

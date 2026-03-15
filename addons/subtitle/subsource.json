@@ -1,5 +1,5 @@
 {
-  "name": "subsource",
+  "name": "SubSource",
   "isAPIRequired": true,
   "apiKey": "",
   "searchUrl": "https://api.subsource.net/api/v1/movies/search?searchType=text&q=videoname&api_key=apikey",
