@@ -2,20 +2,22 @@
   "name": "SubSource",
   "isAPIRequired": true,
   "apiKey": "",
-  "searchUrl": "https://api.subsource.net/api/v1/movies/search?searchType=text&q=videoname&api_key=apikey",
+  "searchUrl": "https://api.subsource.net/api/v1/subtitles?movieId=videoname&api_key=apikey",
   "checkPath": "data",
   "returnPath": "",
   "subtitleListMapping": {
     "listPath": "data",
-    "nameField": "title",
-    "videoNameField": "title",
-    "nativeNameField": "alternateTitle",
-    "idField": "movieId",
-    "langField": "type",
-    "scoreField": "subtitleCount",
-    "subtypeField": "type"
+    "nameField": "",
+    "videoNameField": "",
+    "nativeNameField": "",
+    "idField": "subtitleId",
+    "langField": "language",
+    "scoreField": "rating.good",
+    "subtypeField": "releaseType"
   },
-  "isSubtitleGetRequired": false,
   "subtitleDetailUrl": "https://api.subsource.net/api/v1/subtitles/subtitleid/download?api_key=apikey",
-  "urlDetailPaths": []
+  "urlDetailPaths": [],
+  "isMovieGetBeforeSubtitle": true,
+  "customMovieSearchUrl": "https://api.subsource.net/api/v1/movies/search?searchType=text&q=videoname&api_key=apikey",
+  "movieIdReturnPath": "data[0].movieId"
 }

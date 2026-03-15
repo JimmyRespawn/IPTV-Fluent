@@ -9,6 +9,15 @@
     "description": "SubSource is a subtitle search engine that provides subtitles for movies and TV shows."
   },
   {
+    "name": "Subdl",
+    "version": "0.8",
+    "author": "official",
+    "lang": "Multi-lingual",
+    "configUrl": "https://raw.githubusercontent.com/JimmyRespawn/IPTV-Fluent/refs/heads/main/addons/subtitle/subdl.json",
+    "apiApplyUrl": "https://subdl.com/api-doc",
+    "description": "SubDL is a subtitle search engine that provides subtitles for movies and TV shows."
+  },
+  {
     "name": "Assrt",
     "version": "0.9",
     "author": "official",

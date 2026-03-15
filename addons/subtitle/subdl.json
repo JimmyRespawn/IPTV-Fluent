@@ -1,0 +1,23 @@
+{
+  "name": "SubDL",
+  "isAPIRequired": true,
+  "apiKey": "",
+  "searchUrl": "https://api.subdl.com/api/v1/subtitles?api_key=apikey&film_name=videoname",
+  "checkPath": "subtitles",
+  "returnPath": "",
+  "subtitleListMapping": {
+    "listPath": "subtitles",
+    "nameField": "release_name",
+    "videoNameField": "title",
+    "nativeNameField": null,
+    "idField": "url",
+    "langField": "language",
+    "scoreField": null,
+    "subtypeField": "type"
+  },
+  "subtitleDetailUrl": "subtitleid",
+  "urlDetailPaths": [],
+  "isMovieGetBeforeSubtitle": false,
+  "customMovieSearchUrl": "",
+  "movieIdReturnPath": ""
+}

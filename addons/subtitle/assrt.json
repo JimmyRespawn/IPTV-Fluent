@@ -14,10 +14,12 @@
     "scoreField": "vote_score",
     "subtypeField": "subtype"
   },
-  "isSubtitleGetRequired": true,
   "subtitleDetailUrl": "https://api.assrt.net/v1/sub/detail?token=apikey&id=subtitleid",
   "urlDetailPaths": [
     "sub.subs[0].filelist[0].url",
     "sub.subs[0].url"
-  ]
+  ],
+  "isMovieGetBeforeSubtitle": false,
+  "customMovieSearchUrl": "",
+  "movieIdReturnPath": ""
 }
