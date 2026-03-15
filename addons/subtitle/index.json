@@ -1,29 +1,29 @@
 [
   {
     "name": "SubSource",
-    "version": "0.9",
+    "version": "1.0",
     "author": "official",
-    "lang": "English",
+    "lang": "Multi-lingual",
     "configUrl": "https://raw.githubusercontent.com/JimmyRespawn/IPTV-Fluent/refs/heads/main/addons/subtitle/subsource.json",
     "apiApplyUrl": "https://subsource.net/dashboard/profile",
     "description": "SubSource is a subtitle search engine that provides subtitles for movies and TV shows."
   },
   {
     "name": "Subdl",
-    "version": "0.8",
+    "version": "1.0",
     "author": "official",
     "lang": "Multi-lingual",
     "configUrl": "https://raw.githubusercontent.com/JimmyRespawn/IPTV-Fluent/refs/heads/main/addons/subtitle/subdl.json",
-    "apiApplyUrl": "https://subdl.com/api-doc",
+    "apiApplyUrl": "https://subdl.com/panel/api",
     "description": "SubDL is a subtitle search engine that provides subtitles for movies and TV shows."
   },
   {
     "name": "Assrt",
-    "version": "0.9",
+    "version": "1.0",
     "author": "official",
     "lang": "Simplified Chinese",
     "configUrl": "https://raw.githubusercontent.com/JimmyRespawn/IPTV-Fluent/refs/heads/main/addons/subtitle/assrt.json",
-    "apiApplyUrl": "https://assrt.net/api/doc#apiquota",
+    "apiApplyUrl": "https://assrt.net/usercp.php",
     "description": "Chinese subtitle website with a large collection of subtitles for movies and TV shows."
   }
 ]
