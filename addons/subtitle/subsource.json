@@ -7,9 +7,9 @@
   "returnPath": "",
   "subtitleListMapping": {
     "listPath": "data",
-    "nameField": "",
-    "videoNameField": "",
-    "nativeNameField": "",
+    "nameField": "releaseInfo[0]",
+    "videoNameField": "releaseInfo[0]",
+    "nativeNameField": "releaseInfo[0]",
     "idField": "subtitleId",
     "langField": "language",
     "scoreField": "rating.good",
