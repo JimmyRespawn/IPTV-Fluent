@@ -13,7 +13,7 @@
   <a href="https://apps.apple.com/app/iptv-fluent-player/id6744343679?pt=127753526&mt=8&ct=github" target="_blank">
     <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/297695737dd1085997fc8e3f65560cb147e1d416/doc/images/appStoreBadge.png?raw=true"  height="75" alt="App Store link" />
   </a>
-  <a href="https://www.microsoft.com/store/productId/9PKMDLWBC8ZJ?cid=github" target="_blank">
+  <a href="https://apps.microsoft.com/detail/9PKMDLWBC8ZJ?launch=true&mode=full&cid=github" target="_blank">
     <img src="https://github.com/JimmyRespawn/IPTV-Fluent/blob/main/doc/images/storeBadge.png?raw=true" height="75" alt="Microsoft Store link" />
   </a>
 </div>
